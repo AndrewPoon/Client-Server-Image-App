@@ -1,3 +1,5 @@
 /dist
 /Client/node_modules
 /Server/node_modules
+/Client/.idea
+/Server/.idea
